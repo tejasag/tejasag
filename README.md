@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am Tejas Agarwal, a.k.a. CyberKnight. I am expirienced with Javascript/Typescript (NodeJS), Python, Java, Rust, C++ & C#. Read below for more about me! :D
+#### I am Tejas Agarwal, a.k.a. CyberKnight. I am expirienced with Javascript/Typescript (NodeJS, Deno), Python, Java, SQL, Rust, C++ & C#. Read below for more about me! :D
 
 - 🔭 I’m currently working on: nothing at the moment.. 
 - 🌱 I’m currently learning C++ & Unreal Engine..
