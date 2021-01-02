@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am Tejas Agarwal, a.k.a. CyberKnight. I am expirienced with Javascript/Typescript (NodeJS, Deno), Python, Java, SQL, some Rust, learing more C++ & some C#. Read below for more about me! :D
+#### I am Tejas Agarwal, a 13 year old from India! I am expirienced with Javascript/Typescript (NodeJS, Deno), Python, Java, SQL, some Rust, learing more C++ & some C#. Read below for more about me! :D
 
 - 🔭 I’m currently working on: [Deno Keyv](https://github.com/CyberKnight007/deno-keyv)
 - 🌱 I’m currently learning C++ & Unreal Engine..
