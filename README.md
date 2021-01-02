@@ -10,4 +10,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I dont do many open source projects 😂...
 
-![CyberKnight's stats](https://github-readme-stats.vercel.app/api?username=CyberKnight007&show_icons=true&theme=radical)
+![CyberKnight's stats](https://github-readme-stats.vercel.app/api?username=tejasag&show_icons=true&theme=radical)
