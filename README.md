@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am Tejas Agarwal, a 13 year old from India! I am experienced with JavaSript/TypeScript (NodeJS, Deno), Python, Java, SQL, some Rust, learing more C++ & some C#. Read below for more about me! :D
+#### I am Tejas Agarwal, a 13 year old from India! I am experienced with JavaScript/TypeScript (NodeJS, Deno), Python, Java, SQL, some Rust, learing more C++ & some C#. Read below for more about me! :D
 
 - 🔭 I’m currently working on: [Deno Keyv](https://github.com/tejasag/deno-keyv)
 - 🌱 I’m currently learning C++ & Unreal Engine..
