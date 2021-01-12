@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋
+### Hi there 👋
 #### I am Tejas Agarwal, a 13 year old from India! I am experienced with JavaScript/TypeScript (NodeJS, Deno), Python, Java, SQL, some Rust, learing more C++ & some C#. Read below for more about me! :D
 
 - 🔭 I’m currently working on: [Deno Keyv](https://github.com/tejasag/deno-keyv)
@@ -9,6 +9,5 @@
 - 📫 How to reach me: Discord `Tejas#9134`...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I dont do many open source projects 😂... 
--->
-<iframe src="https://tejasagarwal.vercel.app/" ></iframe>
+
 ![Tejas' stats](https://github-readme-stats.vercel.app/api?username=tejasag&show_icons=true&theme=radical)
