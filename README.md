@@ -19,6 +19,63 @@ enthusiast, learning Haskell and Flutter. </h2>
 <details>
 <summary>My other Stats</summary>
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-428630%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 176 Contributions in the Year 2021
+ > 
+> 📦 9.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    4 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+🌆 Daytime    11 commits     ███████████░░░░░░░░░░░░░░   44.0% 
+🌃 Evening    10 commits     ██████████░░░░░░░░░░░░░░░   40.0% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
+Tuesday      5 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Wednesday    3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+Thursday     8 commits      ████████░░░░░░░░░░░░░░░░░   32.0% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     4 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+Sunday       4 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
 
 
 <!--END_SECTION:waka-->
