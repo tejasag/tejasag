@@ -21,6 +21,5 @@ enthusiast, learning Haskell and Flutter. </h2>
 <!--START_SECTION:waka-->
 
 
-
 <!--END_SECTION:waka-->
 </details>
