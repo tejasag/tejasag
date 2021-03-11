@@ -20,3 +20,4 @@ jobs:
           SHOW_TIMEZONE: "True"
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
+          SHOW_LINES_OF_CODE: "True"
