@@ -19,8 +19,9 @@ enthusiast, learning Haskell and Flutter. </h2>
 <details>
 <summary>My other Stats</summary>
 <!--START_SECTION:waka-->
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-428630%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -75,22 +76,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 ```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Rust                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Emacs Lisp               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/tejasag/tejasag/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
