@@ -5,7 +5,7 @@ enthusiast, learning Haskell and Flutter. </h2>
 <br />
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tejasag&theme=onedark&margin-w=15&margin-h=15&column=7" alt="willdoescode" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=tejasag&theme=onedark&margin-w=15&margin-h=15&column=7" alt="Tejas Agarwal" /></a>
 </p>
 
 <br />
