@@ -25,7 +25,7 @@ enthusiast, learning Haskell and Flutter. </h2>
 
 **🐱 My Github Data** 
 
-> 🏆 209 Contributions in the Year 2021
+> 🏆 210 Contributions in the Year 2021
  > 
 > 📦 9.7 kB Used in Github's Storage 
  > 
