@@ -5,5 +5,6 @@
     <a href="https://twitter.com/tejasag0">twitter</a> .
     <a href="mailto:tejas.agarwal.bly@gmail.com">email</a> .
     <a href="https://discord.com/users/771687332734173185">discord</a>
+    <a href="https://tejas.dino.icu">www</a>
   </samp>
 </p>
