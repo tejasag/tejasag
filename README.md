@@ -6,6 +6,6 @@
     <a href="https://linkedin.com/in/agarwaltejas">linkedin</a> ~
     <a href="mailto:tejas.agarwal.bly@gmail.com">email</a> ~
     <a href="https://discord.com/users/771687332734173185">discord</a> ~
-    <!-- <a href="https://tejas.dino.icu">www</a> --->
+    <a href="https://tejasag.com">www</a>
   </samp>
 </p>
