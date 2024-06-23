@@ -1,5 +1,6 @@
 <!-- Style inspired by Anthony Fu's README.md (src: https://github.com/antfu/antfu) -->
 
+<!--
 <p align="center">
   <samp>
     <a href="https://twitter.com/tejasag0">twitter</a> ~
@@ -9,3 +10,4 @@
     <a href="https://tejasag.com">www</a>
   </samp>
 </p>
+--!>
